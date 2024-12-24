@@ -14,13 +14,7 @@
   <img src="./utils/4.png"><br><br>
 </div>
 
-This is an official implementation of PolypSolver in our paper "
-<a href="https://ieeexplore.ieee.org/document/10471227">
-PolypSolver: Crossed Non-local Network for Polyp Segmentation with Morphological Operators</a>"
-
-## Note
-* Our code is based on the <a href="https://github.com/DengPingFan/PraNet">PraNet</a>, <a href="https://github.com/DengPingFan/Polyp-PVT">Polyp-PVT</a> implementation.
-* result_map.zip is the test result of PolypSolver.
+This is an official implementation of PolypSolver in our paper "PolypSolver: Crossed Non-local Network for Polyp Segmentation with Morphological Operators"
 
 
 ## Citation
